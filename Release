@@ -1,8 +1,8 @@
-Origin: Cydia Repository
-Label: Cydia Repository
+Origin: PretendingToCode's Repo
+Label: PretendingToCode's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Repo for hosting tweaks n stuff
+Description: Repo for hosting iOS projects
