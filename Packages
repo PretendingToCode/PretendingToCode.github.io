@@ -1,17 +1,3 @@
-Package: com.ahmedbafkir.dleasy
-Version: 2.0.1
-Section: Tweaks
-Maintainer: PretendingToCode <41800112+PretendingToCode@users.noreply.github.com>
-Depends: firmware (>11.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/dleasy_2.0.1.deb
-Size: 821700
-MD5sum: e1bd72a8104a3cfb78dea41469b9a869
-Description: Download images & videos from social apps easily!
-Name: DL Easy
-Author: Ahmed Bafkir <prooxy0@gmail.com>
-Depiction: https://pretendingtocode.github.io/PretendingToCode.github.io/depictions/?p=com.ahmedbafkir.dleasy
-
 Package: com.pretendingtocode.uireworktest
 Version: 0.0.1
 Section: Tweaks
