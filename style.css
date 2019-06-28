@@ -4,6 +4,13 @@ body{
   font-family: sans-serif;
   background: #191919;
 }
+body:before {
+  content: "";
+  position: absolute;
+  left: 0; right: 0;
+  top: 0; bottom: 0;
+  background: rgba(0,0,0,.7);
+}
 .box{
   width: 600px;
   padding: 40px;
@@ -57,7 +64,7 @@ body{
 .add a:hover{
   background: #5ac8fa;
   position: absolute;
-  top: 60%;
+  width: 200px;
 }
 .container{
   position: absolute;
