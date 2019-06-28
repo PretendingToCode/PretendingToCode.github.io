@@ -1,0 +1,23 @@
+<package>
+	<id>com.pretendingtocode.uireworktest</id>
+	<name>UIReworkTest</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>My first attempt at hooking into a UIAlertController instance</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
