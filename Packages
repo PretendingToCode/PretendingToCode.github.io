@@ -11,3 +11,17 @@ Description: Download images & videos from social apps easily!
 Name: DL Easy
 Author: Ahmed Bafkir <prooxy0@gmail.com>
 Depiction: https://pretendingtocode.github.io/PretendingToCode.github.io/depictions/?p=com.ahmedbafkir.dleasy
+
+Package: com.pretendingtocode.uireworktest
+Version: 0.0.1
+Section: Tweaks
+Maintainer: PretendingToCode <41800112+PretendingToCode@users.noreply.github.com>
+Depends: firmware (>11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/uireworktest_0.0.1.deb
+Size: 5482
+MD5sum: 23bf098ac1fd02ea8f63b42215185690
+Description: My first attempt at hooking into a UIAlertController instance
+Name: UIReworkTest
+Author: PretendingToCode <41800112+PretendingToCode@users.noreply.github.com>
+Depiction: https://pretendingtocode.github.io/PretendingToCode.github.io/depictions/?p=com.pretendingtocode.uireworktest
